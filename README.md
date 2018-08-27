@@ -1,6 +1,9 @@
 # How to solve an issue: 
 
-  - Create a new branch with the issue name on it.
+  - Create a new branch with the issue name on it. Don't work off and commit directly to master! 
   - Resolve the issue.
-  - Create a PR and post screenshots of what the change looks like 
+  - Create a PR and post screenshots of what the change looks like.
+  
+  - Also, if there's a change that needs to be done but there isn't an issue for it, create it first and then assign yourself.   
+    We don't want people doing double work. 
 
