@@ -211,21 +211,28 @@ line-height:  89px;
 .hosting-logos {
   display: flex;
 }
-@media all and (max-width: 600px) {
-  .hosting-logos { margin: 0; }
 
-}
+
 .be-logo, .esuc-logo{
+ padding-top: 3%;
   height: 20%;
   width: 15%;
+  min-width: 150px;
   padding-left: 7%;
 }
-.esuc-logo {
+.final_host {
+  padding-top: 3%;
+  height: 20%;
+  width: 15%;
+  min-width: 150px;
+  padding-left: 7%;
 
 }
 .hosting-logo {
+  padding-top: 3%;
   height: 20%;
   width: 20%;
+  min-width: 150px;
   padding-left: 7%;
 }
 
