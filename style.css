@@ -282,7 +282,6 @@ line-height:  89px;
   background-color: #0F5F6A;
   color: white;
    border: none;
-    padding: 8px 16px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -292,8 +291,12 @@ line-height:  89px;
     font-style: 'SemiBold';
     font-size: 24px;
 }
+#nav_logo {
+  width: 5%;
+  height: 10%;
+}
 #register_nav {
-  background-color: white;
+  background-color: transparent;
   color: #0F5F6A;
   border-color: #0F5F6A;
   padding: 8px 16px;
@@ -305,6 +308,7 @@ line-height:  89px;
     font-family: 'Exo';
     font-style: 'SemiBold';
     font-size: 16px;
+    min-width: 150px;
 }
 #rsvp {
   text-decoration: none;
