@@ -189,7 +189,7 @@ a.primary:after {
 
 }
 .sponsor_title {
-    font-family: 'Exo';
+font-family: 'Exo';
 font-style: 'Black';
 font-size: 96px;
 line-height:  89px;
@@ -265,6 +265,7 @@ display: -webkit-flex;
 #main_title_div {
   margin: auto;
   align-content: left;
+  padding-left: 5%;
 }
 #main_title {
   font-family: 'Exo';
@@ -457,6 +458,16 @@ line-height:  89px;
 .footer-icon {
   height: 6vh;
   padding: 5px;
+}
+.temp-sponsorship {
+  text-align: center;
+  color: black;
+  font-family: 'Exo';
+  font-style: 'Medium-Italic';
+  font-style: italic;
+  font-size: 38px;
+  font-height: 29px;
+
 }
 
 @media (max-width: 760px) and (orientation: landscape) {
