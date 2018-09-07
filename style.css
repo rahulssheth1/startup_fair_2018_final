@@ -147,19 +147,13 @@ a.primary:after {
   top: 0;
   right: 0;
   width: 100vw;
-  padding: 3vh 10vw 8vh 0;
-
+  padding: 3vh 10vw 0 0;
+  background-color: white;
   display: -webkit-flex;
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
   align-items: center;
-
-  /*background: #001419;
-  background: -webkit-linear-gradient(rgba(0, 20, 25, 1), rgba(0, 20, 25, 1), rgba(0, 20, 25, 0.8), rgba(0, 20, 25, 0.2), rgba(0, 20, 25, 0));
-  background: -o-linear-gradient(rgba(0, 20, 25, 1), rgba(0, 20, 25, 1), rgba(0, 20, 25, 0.8), rgba(0, 20, 25, 0.2), rgba(0, 20, 25, 0));
-  background: -moz-linear-gradient(rgba(0, 20, 25, 1), rgba(0, 20, 25, 1), rgba(0, 20, 25, 0.8), rgba(0, 20, 25, 0.2), rgba(0, 20, 25, 0));
-  background: linear-gradient(rgba(0, 20, 25, 1), rgba(0, 20, 25, 1), rgba(0, 20, 25, 0.8), rgba(0, 20, 25, 0.2), rgba(0, 20, 25, 0));*/
 }
 
 @media (max-width: 760px) {
@@ -172,6 +166,7 @@ a.primary:after {
   margin: 0 2vw;
 
   text-align: right;
+  text-decoration: none;
 /*  color: white;
 */  
 
@@ -191,10 +186,11 @@ a.primary:after {
   font-height: 29px;
   text-align: left;
 
+
 }
 .sponsor_title {
     font-family: 'Exo';
-font-style: 'ExtraBold';
+font-style: 'Black';
 font-size: 96px;
 line-height:  89px;
 }
@@ -272,7 +268,7 @@ display: -webkit-flex;
 }
 #main_title {
   font-family: 'Exo';
-font-style: 'ExtraBold';
+font-style: 'Extra-Bold';
 font-size: 96px;
 line-height:  89px;
 }
