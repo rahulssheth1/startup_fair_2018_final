@@ -293,7 +293,9 @@ line-height:  89px;
     border-radius: 8px;
     font-family: 'Exo';
     font-style: 'SemiBold';
-    font-size: 24px;
+    font-size: 26px;
+  height: 65px;
+  width: 200px;
 }
 #nav_logo {
   width: 5%;
@@ -310,7 +312,7 @@ line-height:  89px;
     font-size: 16px;
     border-radius: 8px;
     font-family: 'Exo';
-    font-style: 'SemiBold';
+    font-style: 'Extra-Bold';
     font-size: 16px;
     min-width: 150px;
 }
@@ -400,7 +402,7 @@ line-height:  89px;
 }
 
 #gold-sponsors, #bronze-sponsors {
-  margin: 8vh 0;
+  margin: auto;
 
   display: -webkit-flex;
   display: flex;
