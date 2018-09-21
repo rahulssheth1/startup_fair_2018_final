@@ -268,7 +268,7 @@ display: -webkit-flex;
   padding-left: 5%;
 }
 #main_title {
-  font-family: 'Exo';
+font-family: 'Exo';
 font-style: 'Extra-Bold';
 font-size: 96px;
 line-height:  89px;
@@ -280,7 +280,10 @@ line-height:  89px;
 
 }
 #subtitle {
-  font-family: 'Open Sans';
+  font-family: 'Exo';
+  font-style: 'Extra-Bold';
+  font-size: 26px;
+  color: #808080;
 }
 #register_main {
   background-color: #0F5F6A;
