@@ -268,7 +268,7 @@ display: -webkit-flex;
   padding-left: 5%;
 }
 #main_title {
-  font-family: 'Exo';
+font-family: 'Exo';
 font-style: 'Extra-Bold';
 font-size: 96px;
 line-height:  89px;
@@ -280,7 +280,10 @@ line-height:  89px;
 
 }
 #subtitle {
-  font-family: 'Open Sans';
+  font-family: 'Exo';
+  font-style: 'Extra-Bold';
+  font-size: 26px;
+  color: #808080;
 }
 #register_main {
   background-color: #0F5F6A;
@@ -293,7 +296,9 @@ line-height:  89px;
     border-radius: 8px;
     font-family: 'Exo';
     font-style: 'SemiBold';
-    font-size: 24px;
+    font-size: 26px;
+  height: 65px;
+  width: 200px;
 }
 #nav_logo {
   width: 5%;
@@ -302,17 +307,17 @@ line-height:  89px;
 #register_nav {
   background-color: transparent;
   color: #0F5F6A;
-  border-color: #0F5F6A;
+  border-color: #008000;
+  border-width: 2px;
   padding: 8px 16px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    border-radius: 8px;
-    font-family: 'Exo';
-    font-style: 'SemiBold';
-    font-size: 16px;
-    min-width: 150px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 8px;    
+  font-family: 'Exo';
+  font-style: 'Extra-Bold';
+  font-size: 22px;
+  min-width: 150px;
 }
 #rsvp {
   text-decoration: none;
@@ -400,7 +405,7 @@ line-height:  89px;
 }
 
 #gold-sponsors, #bronze-sponsors {
-  margin: 8vh 0;
+  margin: auto;
 
   display: -webkit-flex;
   display: flex;
