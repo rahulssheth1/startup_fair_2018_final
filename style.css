@@ -304,17 +304,17 @@ line-height:  89px;
 #register_nav {
   background-color: transparent;
   color: #0F5F6A;
-  border-color: #0F5F6A;
+  border-color: #008000;
+  border-width: 2px;
   padding: 8px 16px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    border-radius: 8px;
-    font-family: 'Exo';
-    font-style: 'Extra-Bold';
-    font-size: 16px;
-    min-width: 150px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 8px;    
+  font-family: 'Exo';
+  font-style: 'Extra-Bold';
+  font-size: 22px;
+  min-width: 150px;
 }
 #rsvp {
   text-decoration: none;
