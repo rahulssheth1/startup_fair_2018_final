@@ -260,12 +260,20 @@ display: -webkit-flex;
   align-items: center;
 }
 #main_logo {
-  margin: auto;
+  margin-right: 5px;
+  margin-left: 15%;
+  margin-top: auto;
+  margin-bottom: auto;
+  display: inline-block;
 }
 #main_title_div {
-  margin: auto;
+  margin-left: 5px;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
   align-content: left;
   padding-left: 5%;
+  display: inline-block;
 }
 #main_title {
 font-family: 'Exo';
