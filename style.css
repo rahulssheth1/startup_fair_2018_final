@@ -261,10 +261,13 @@ display: -webkit-flex;
 }
 #main_logo {
   margin-right: 5px;
-  margin-left: 15%;
+  margin-left: auto;
   margin-top: auto;
   margin-bottom: auto;
   display: inline-block;
+  height:auto;
+  max-height: 100%;
+  max-width: 100%;
 }
 #main_title_div {
   margin-left: 5px;
