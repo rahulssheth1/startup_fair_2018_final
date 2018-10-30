@@ -232,12 +232,39 @@ line-height:  89px;
   padding-left: 7%;
 }
 
-.sponsor-logo {
-  height: 20%;
-  width: 15%;
+.partner-logo {
+  height: 10%;
+  width: auto;
   padding-left: 7%;
   padding-bottom: 5%;
 }
+
+.procore-logo {
+  height: 10%;
+  width: 30%;
+  padding-left: 7%;
+  padding-bottom: 5%;
+}
+
+.gold-logo {
+  height: 10%;
+  width: auto;
+  padding-left: 7%;
+  padding-bottom: 5%;
+}
+
+.silver-logo {
+  height: 15%;
+  width: auto;
+  padding-left: 7%;
+  padding-bottom: 5%;
+}
+/*.startupucla-logo {
+  height: 15%;
+  width: auto;
+  padding-left: 20%;
+  padding-bottom: 5%;
+}*/
 .nav-link:hover {
   text-decoration: none;
   color: white;
